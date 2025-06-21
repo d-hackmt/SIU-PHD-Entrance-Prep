@@ -1,5 +1,7 @@
 # SIU-PHD-Entrance-Prep
 
+![image](https://github.com/user-attachments/assets/d28ac1ba-f96c-4c17-98eb-674a81ad00d3)
+
 
 This repo is made to help with SIU PHD entrance test preparation , 
 
